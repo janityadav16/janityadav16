@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nakul1710" alt="nakul1710" />
+  <img src="https://github-profile-trophy.vercel.app/?username=janityadav16" alt="janityadav16" />
 </div>
 
 
