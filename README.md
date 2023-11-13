@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
 
-- 👨‍💻 All of my projects are available at [https://nakul.dev](https://janit.in)
+- 👨‍💻 All of my projects are available at [https://janit.in](https://janit.in)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git, Linux, Bash, Vim**
 
