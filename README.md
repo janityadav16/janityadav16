@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://janit.in](https://janit.in)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git, Linux, Bash, Vim**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git**
 
 - 📫 How to reach me **janityadav16@gmail.com**
 
