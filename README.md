@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
 
-- 🌱 I’m currently learning **JS, Bash, Linux and Data Structure**
+- 🌱 I’m currently learning **JS, Bash, Linux and Data Structure, vim**
 
 - 👯 I’m looking to collaborate on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
 
 - 👨‍💻 All of my projects are available at [https://janit.in](https://janit.in)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git, vim**
 
 - 📫 How to reach me **janityadav16@gmail.com**
 
