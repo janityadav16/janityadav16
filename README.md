@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1q6FLUyariocsbcR3ep05TSDtRScrBU8CZjanbTW6P3Y/edit?usp=sharing](https://docs.google.com/document/d/13b6iPazhttGOtkafBsdl4j-ncAYKRk4MAlOB2K3k_ks/edit)
 
-- ⚡ Fun fact **Ask me about music**
+- ⚡ Fun fact **Ask me about music,technalogy,Films**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
