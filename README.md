@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
 
-- 🌱 I’m currently learning **JS, Bash, Linux and Data Structure, vim**
+- 🌱 I’m currently learning **JS, Bash, Linux and Data Structure, vim, typescript**
 
 - 👯 I’m looking to collaborate on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
 
