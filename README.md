@@ -1,164 +1,90 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=5B6EF5&center=true&vCenter=true&width=540&lines=I+build+AI+products+that+real+people+use.;Full+stack+from+idea+%E2%86%92+deployed.;Open+to+roles+%E2%80%94+May+2026." alt="Typing" />
-</div>
+
+# JANIT YADAV
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1200&color=5B6EF5&center=true&vCenter=true&width=560&lines=Full+Stack+%26+AI+Developer+%F0%9F%9A%80;I+build+AI+products+that+real+people+use.;From+idea+%E2%86%92+deployed+%E2%86%92+real+users.;Open+to+roles+%E2%80%94+May+2026+%F0%9F%9F%A2" alt="Typing SVG" />
 
 <br/>
 
----
-
-```
-  I'm a developer who ships.
-  
-  Not "learning to code" — actually building and deploying
-  products that solve real problems for real users.
-  
-  Currently based in Jaipur, India.
-  Open to full-time roles, remote work, relocation.
-```
-
----
-
-<br/>
-
-**`WHAT I'M WORKING ON`**
-
-```python
-{
-  "live"     : "AI-powered interview simulation platform → live users",
-  "learning" : ["LangChain", "Next.js", "Vector Databases"],
-  "open_to"  : "Full-time · Remote · Relocation · May 2026"
-}
-```
-
-<br/>
-
----
-
-**`HOW I BUILD`**
-
-I pick a problem → build the minimal version → ship it → learn from real usage.
-
-Every project here went through that loop. Nothing is a tutorial clone.
-
----
-
-<br/>
-
-**`STACK`**
-
-<div align="center">
-
-![React](https://skillicons.dev/icons?i=react,nodejs,python,js,flask,tensorflow,opencv,git,linux,mongodb,vercel,vscode&theme=dark&perline=6)
-
-</div>
-
-<br/>
-
----
-
-**`WHAT I'VE SHIPPED`**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`01 — AI Interview Platform`**
-```
-Type    : Full-stack AI product
-Status  : ● LIVE — real users
-Stack   : React · Node.js · OpenAI API
-What    : Simulates interviews, scores
-          answers, gives instant feedback
-Built   : Solo, from scratch
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`02 — Plant Disease Detector`**
-```
-Type    : Deep learning · Vision
-Status  : ✓ Deployed
-Stack   : Python · ResNet50 · Flask
-What    : 38 disease classes
-          87K+ training images
-          99.1% validation accuracy
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`03 — Real-time Object Detection`**
-```
-Type    : Computer vision
-Status  : ✓ Shipped
-Stack   : Python · YOLO · OpenCV
-What    : Live bounding box prediction
-          Multi-class · Video streams
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`04 — This Portfolio`**
-```
-Type    : Frontend · Canvas animations
-Status  : ● Live
-Stack   : Vanilla JS · CSS · HTML
-What    : Aurora + particle background
-          Boot sequence · Full UI
-Link    : janit-portfolio.vercel.app
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-**`GITHUB ACTIVITY`**
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janityadav16&bg_color=080c14&color=5b6ef5&line=5b6ef5&point=e8eaf6&area_color=5b6ef522&area=true&hide_border=true&radius=6)](https://github.com/janityadav16)
-
-</div>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=janityadav16&show_icons=true&theme=transparent&hide_border=true&title_color=5b6ef5&icon_color=5b6ef5&text_color=8892a4&bg_color=00000000&hide_rank=true&include_all_commits=true" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-janit--portfolio.vercel.app-5b6ef5?style=flat-square&logo=vercel&logoColor=white)](https://janit-portfolio.vercel.app)
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janityadav16&layout=compact&theme=transparent&hide_border=true&title_color=5b6ef5&text_color=8892a4&bg_color=00000000&langs_count=5" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janit%20Yadav-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/janityadav16)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-janityadav16@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:janityadav16@gmail.com)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=janityadav16&color=5b6ef5&style=flat-square&label=Profile+Views)
 
 </div>
 
-<br/>
+---
+
+### 👋 About Me
+
+I'm a developer based in **Jaipur, India** who builds and ships AI-powered products.
+
+Not learning to code — actually deploying things that real people use. Every project I've built went from idea → minimal version → shipped → iterated on real feedback. Nothing here is a tutorial clone.
+
+Currently finishing my degree and open to **full-time roles, remote work, and relocation** from May 2026.
+
+- 🔭 &nbsp; Working on an AI interview simulation platform — live with real users
+- 🧠 &nbsp; Learning **LangChain**, **Next.js**, and **Vector Databases**
+- 🌍 &nbsp; Exploring grad programmes in AI/ML across EU & UK
+- ⚡ &nbsp; I care about clean code, good UX, and systems that actually solve problems
 
 ---
 
-**`WHAT I READ`**
+### 🛠 Tech Stack
 
-Books and papers that shaped how I think:
+<div align="center">
 
-```
-· Designing ML Systems       — Chip Huyen
-· The Pragmatic Programmer   — Hunt & Thomas
-· Attention Is All You Need  — Vaswani et al.
-· Clean Code                 — Robert C. Martin
-· You Don't Know JS          — Kyle Simpson
-```
+![](https://skillicons.dev/icons?i=react,nodejs,python,js,flask,tensorflow,opencv,git,linux,mongodb,vercel,vscode&theme=dark&perline=6)
+
+</div>
+
+---
+
+### 🚀 What I've Shipped
+
+| # | Project | What it does | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 01 | **[AI Interview Platform](https://recutr.dev)** | Simulates real interview conditions, scores answers, gives instant AI feedback | React · Node.js · OpenAI API | 🟢 Live |
+| 02 | **Plant Disease Detector** | Classifies 38 crop diseases from leaf images — 87K+ training images, 99.1% accuracy | Python · ResNet50 · Flask | ✅ Deployed |
+| 03 | **Object Detection System** | Real-time bounding box detection across multiple classes for live video streams | Python · YOLO · OpenCV | ✅ Shipped |
+| 04 | **This Portfolio** | Custom aurora + particle background, boot sequence, full interactive UI | Vanilla JS · CSS · HTML | 🟢 Live |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janityadav16&bg_color=0d1117&color=5b6ef5&line=5b6ef5&point=ffffff&area=true&area_color=5b6ef515&hide_border=true&radius=6)](https://github.com/janityadav16)
+
+<br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=janityadav16&show_icons=true&theme=github_dark&hide_border=true&title_color=5b6ef5&icon_color=5b6ef5&text_color=8892a4&bg_color=0d1117&include_all_commits=true&hide_rank=false" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janityadav16&layout=compact&theme=github_dark&hide_border=true&title_color=5b6ef5&text_color=8892a4&bg_color=0d1117&langs_count=6" />
+
+</div>
+
+---
+
+### 📚 What I Read
+
+Books and papers that shaped how I think about building things:
+
+- **Designing ML Systems** — Chip Huyen
+- **The Pragmatic Programmer** — Hunt & Thomas
+- **Attention Is All You Need** — Vaswani et al.
+- **Clean Code** — Robert C. Martin
+- **You Don't Know JS** — Kyle Simpson
 
 > *"Make it work, make it right, make it fast."*
 
-<br/>
-
 ---
 
-**`GET IN TOUCH`**
+### 🤝 Let's Connect
 
 <div align="center">
 
@@ -166,22 +92,20 @@ If you're building something interesting — or hiring someone who ships —
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/↗%20PORTFOLIO-janit--portfolio.vercel.app-5b6ef5?style=for-the-badge&logoColor=white)](https://janit-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/↗%20Portfolio-5b6ef5?style=for-the-badge&logo=vercel&logoColor=white)](https://janit-portfolio.vercel.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/↗%20EMAIL-janityadav16%40gmail.com-5b6ef5?style=for-the-badge&logoColor=white)](mailto:janityadav16@gmail.com)
+[![Email](https://img.shields.io/badge/↗%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janityadav16@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/↗%20LINKEDIN-connect-5b6ef5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/janityadav16)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/↗%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janityadav16)
 
 <br/>
 
+*Available from May 2026 · Open to full-time · Remote · Relocation*
+
+</div>
+
+---
+
 <div align="center">
-
-```
-// JANIT YADAV · FULL STACK & AI DEVELOPER · 2026
-```
-
-![](https://komarev.com/ghpvc/?username=janityadav16&color=5b6ef5&style=flat-square&label=PROFILE+VIEWS)
-
+<sub>Built with focus. Shipped with intent. · Jaipur, India 🇮🇳</sub>
 </div>
