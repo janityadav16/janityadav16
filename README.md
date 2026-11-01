@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-drawing-sheet.png" alt="Janit Yadav. A drawing sheet with a revision history of four projects: Recutr.dev (live), Market microstructure (research build), TPS Behror (shipped), CV Lab (academic).">
+  <img src="assets/banner-animated.svg" alt="Janit Yadav. A drawing sheet with a revision history of four projects: Recutr.dev (live), Market microstructure (research build), TPS Behror (shipped), CV Lab (academic).">
 </p>
 
 **Developer and founder.** MSc FinTech with Data Science at the University of Bristol. I take ideas to shipped products with real users, and I am now applying the same discipline to market microstructure research.
@@ -24,6 +24,8 @@
 | **OpenCV · YOLO**<br><sub>computer vision</sub> | ○ | ○ | ○ | ● |
 | **Git · Linux · Vercel**<br><sub>shipping and tooling</sub> | ● | ● | ● | ● |
 
+<img src="assets/recorder-divider.svg" alt="Decorative strip-chart trace, not market data." width="100%">
+
 ## 3 · Detail views
 
 | Rev | Project | What it does | Stack | Status |
@@ -35,11 +37,13 @@
 
 ## 4 · Section: route
 
-<img src="assets/route-survey.png" alt="Survey sheet of my route: Behror, then Jaipur (about 119 km), then Bristol (about 6,919 km). Roots in Behror, BCA in Jaipur, MSc in Bristol.">
+<img src="assets/route-animated.svg" alt="Survey sheet of my route: Behror, then Jaipur (about 119 km), then Bristol (about 6,919 km). Roots in Behror, BCA in Jaipur, MSc in Bristol.">
 
 ## 5 · Open items
 
 Learning next: `LangChain` · `Next.js` · `Vector databases`
+
+<img src="assets/recorder-divider.svg" alt="Decorative strip-chart trace, not market data." width="100%">
 
 ## 6 · References
 
