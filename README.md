@@ -1,111 +1,55 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner-drawing-sheet.png" alt="Janit Yadav. A drawing sheet with a revision history of four projects: Recutr.dev (live), Market microstructure (research build), TPS Behror (shipped), CV Lab (academic).">
+</p>
 
-# JANIT YADAV
+**Developer and founder.** MSc FinTech with Data Science at the University of Bristol. I take ideas to shipped products with real users, and I am now applying the same discipline to market microstructure research.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1200&color=5B6EF5&center=true&vCenter=true&width=560&lines=Full+Stack+%26+AI+Developer+%F0%9F%9A%80;I+build+AI+products+that+real+people+use.;From+idea+%E2%86%92+deployed+%E2%86%92+real+users.;Open+to+roles+%E2%80%94+May+2026+%F0%9F%9F%A2" alt="Typing SVG" />
+## 1 · General notes
 
-<br/>
+1. Everything under *Detail views* is live, shipped, or labelled as research.
+2. Skills are listed only where I have used them in a project.
+3. A number appears only if it was measured.
+4. Drawn in Bristol, UK. Revised when the work changes.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-janit--portfolio.vercel.app-5b6ef5?style=flat-square&logo=vercel&logoColor=white)](https://janit-portfolio.vercel.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janit%20Yadav-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/janityadav16)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-janityadav16@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:janityadav16@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=janityadav16&color=5b6ef5&style=flat-square&label=Profile+Views)
+## 2 · Bill of materials: skills with receipts
 
-</div>
+| Skill | A · Recutr.dev | B · Microstructure | C · TPS Behror | D · CV Lab |
+|:--|:-:|:-:|:-:|:-:|
+| **Python**<br><sub>ML, data, Flask services</sub> | ○ | ● | ○ | ● |
+| **TypeScript · React · Tailwind**<br><sub>front end</sub> | ● | ○ | ● | ○ |
+| **Node · MongoDB (MERN)**<br><sub>back end and data</sub> | ● | ○ | ● | ○ |
+| **LightGBM · XGBoost · HMM/GMM**<br><sub>tabular and regime models</sub> | ○ | ● | ○ | ○ |
+| **PyTorch · ResNet50 · LSTM/TCN**<br><sub>deep learning</sub> | ○ | ● | ○ | ● |
+| **FinBERT · OpenAI API**<br><sub>language models</sub> | ● | ● | ○ | ○ |
+| **OpenCV · YOLO**<br><sub>computer vision</sub> | ○ | ○ | ○ | ● |
+| **Git · Linux · Vercel**<br><sub>shipping and tooling</sub> | ● | ● | ● | ● |
 
----
+## 3 · Detail views
 
-### 👋 About Me
+| Rev | Project | What it does | Stack | Status |
+|:-:|:--|:--|:--|:-:|
+| A | [**Recutr.dev**](https://recutr.dev) | Interview practice that tells you what to fix next. 500+ users, 100+ graded sessions. | `React` `TypeScript` `Node` `MongoDB` | `live` |
+| B | [**Market microstructure**](https://janit-portfolio.vercel.app/work/microstructure/) | A six-layer ML pipeline that reads the order book to explain the next few seconds of price, tested walk-forward. | `Python` `LightGBM` `XGBoost` `FinBERT` | `research build` |
+| C | [**TPS Behror**](https://tpsbehror.co.in) | Production school website with a student result portal and an admin panel. | `MERN` | `shipped` |
+| D | [**CV Lab**](https://janit-portfolio.vercel.app/work/) | Plant-disease classifier on ResNet50 (including an architecture-mismatch bug I found and fixed) and real-time object detection. | `PyTorch` `OpenCV` `YOLO` | `academic` |
 
-I'm a developer based in **Jaipur, India** who builds and ships AI-powered products.
+## 4 · Section: route
 
-Not learning to code — actually deploying things that real people use. Every project I've built went from idea → minimal version → shipped → iterated on real feedback. Nothing here is a tutorial clone.
+<img src="assets/route-survey.png" alt="Survey sheet of my route: Behror, then Jaipur (about 119 km), then Bristol (about 6,919 km). Roots in Behror, BCA in Jaipur, MSc in Bristol.">
 
-Currently finishing my degree and open to **full-time roles, remote work, and relocation** from May 2026.
+## 5 · Open items
 
-- 🔭 &nbsp; Working on an AI interview simulation platform — live with real users
-- 🧠 &nbsp; Learning **LangChain**, **Next.js**, and **Vector Databases**
-- 🌍 &nbsp; Exploring grad programmes in AI/ML across EU & UK
-- ⚡ &nbsp; I care about clean code, good UX, and systems that actually solve problems
+Learning next: `LangChain` · `Next.js` · `Vector databases`
 
----
+## 6 · References
 
-### 🛠 Tech Stack
+*Designing ML Systems* (Chip Huyen) · *The Pragmatic Programmer* (Hunt and Thomas) · *Attention Is All You Need* (Vaswani et al.)
 
-<div align="center">
+## 7 · Contact
 
-![](https://skillicons.dev/icons?i=react,nodejs,python,js,flask,tensorflow,opencv,git,linux,mongodb,vercel,vscode&theme=dark&perline=6)
+[Portfolio](https://janit-portfolio.vercel.app) · [Email](mailto:janityadav16@gmail.com) · [LinkedIn](https://linkedin.com/in/janit-yadav-461140279) · [GitHub](https://github.com/janityadav16)
+<!-- add once the PDF exists: · [CV (PDF)](...) -->
 
-</div>
-
----
-
-### 🚀 What I've Shipped
-
-| # | Project | What it does | Stack | Status |
-|---|---------|-------------|-------|--------|
-| 01 | **[AI Interview Platform](https://recutr.dev)** | Simulates real interview conditions, scores answers, gives instant AI feedback | React · Node.js · OpenAI API | 🟢 Live |
-| 02 | **Plant Disease Detector** | Classifies 38 crop diseases from leaf images — 87K+ training images, 99.1% accuracy | Python · ResNet50 · Flask | ✅ Deployed |
-| 03 | **Object Detection System** | Real-time bounding box detection across multiple classes for live video streams | Python · YOLO · OpenCV | ✅ Shipped |
-| 04 | **This Portfolio** | Custom aurora + particle background, boot sequence, full interactive UI | Vanilla JS · CSS · HTML | 🟢 Live |
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janityadav16&bg_color=0d1117&color=5b6ef5&line=5b6ef5&point=ffffff&area=true&area_color=5b6ef515&hide_border=true&radius=6)](https://github.com/janityadav16)
-
-<br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=janityadav16&show_icons=true&theme=github_dark&hide_border=true&title_color=5b6ef5&icon_color=5b6ef5&text_color=8892a4&bg_color=0d1117&include_all_commits=true&hide_rank=false" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janityadav16&layout=compact&theme=github_dark&hide_border=true&title_color=5b6ef5&text_color=8892a4&bg_color=0d1117&langs_count=6" />
-
-</div>
-
----
-
-### 📚 What I Read
-
-Books and papers that shaped how I think about building things:
-
-- **Designing ML Systems** — Chip Huyen
-- **The Pragmatic Programmer** — Hunt & Thomas
-- **Attention Is All You Need** — Vaswani et al.
-- **Clean Code** — Robert C. Martin
-- **You Don't Know JS** — Kyle Simpson
-
-> *"Make it work, make it right, make it fast."*
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-If you're building something interesting — or hiring someone who ships —
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/↗%20Portfolio-5b6ef5?style=for-the-badge&logo=vercel&logoColor=white)](https://janit-portfolio.vercel.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/↗%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janityadav16@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/↗%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janityadav16)
-
-<br/>
-
-*Available from May 2026 · Open to full-time · Remote · Relocation*
-
-</div>
-
----
-
-<div align="center">
-<sub>Built with focus. Shipped with intent. · Jaipur, India 🇮🇳</sub>
-</div>
+<p align="center">
+  <img src="assets/footer-title-block.png" alt="Title block: drawn by J. Yadav, Bristol, UK. Sheet 1 of 1. Revision November 2026.">
+</p>
